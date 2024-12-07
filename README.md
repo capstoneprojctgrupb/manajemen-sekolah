@@ -5,7 +5,7 @@ Proyek ini bertujuan untuk mengembangkan sistem administrasi berbasis web menggu
 
 ---
 
-🔗 **Akses Aplikasi Web**: [capstoneprojectgrupb.my.id](https://capstoneprojectgrupb.my.id/)
+### 🔗 **Akses Aplikasi Web**: [capstoneprojectgrupb.my.id](https://capstoneprojectgrupb.my.id/)
 
 ### 🎯 **Fitur Utama**  
 - **Pengelolaan Data Siswa**: Tambah, edit, dan hapus data siswa.  
