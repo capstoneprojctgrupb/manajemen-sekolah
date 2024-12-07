@@ -46,8 +46,8 @@ Proyek ini bertujuan untuk mengembangkan sistem administrasi berbasis web menggu
 ### 📄 **Cara Menjalankan**  
 1. **Clone Repositori**:  
    ```bash
-   git clone https://github.com/username/nama-repositori.git
-   cd nama-repositori
+   git clone https://github.com/capstoneprojctgrupb/manajemen-sekolah.git
+   cd manajemen-sekolah
    ```
 
 2. **Instalasi Dependensi**:  
