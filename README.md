@@ -36,7 +36,8 @@ Proyek ini bertujuan untuk mengembangkan sistem administrasi berbasis web menggu
 ---
 
 ### 🎓 **Informasi Akademik**  
-- **Program Studi**: Sistem Informasi  
+- **Program Studi**: Sistem Informasi
+- **Mata Kuliah**: STSI4401 Capstone Project
 - **Fakultas**: Sains dan Teknologi  
 - **Universitas**: Universitas Terbuka  
 
